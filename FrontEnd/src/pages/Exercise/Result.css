@@ -1,0 +1,51 @@
+.result-container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  .result-heading {
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .result-card {
+    padding: 20px;
+    background: #f8f9fa;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .score-text {
+    color: #28a745;
+    font-weight: bold;
+  }
+  
+  .previous-results {
+    overflow-y: auto;
+    max-height: 250px;
+    padding: 10px;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .results-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .results-table th, .results-table td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: center;
+  }
+  
+  .even-row { background: #f2f2f2; }
+  .odd-row { background: #ffffff; }
+  
+  .toggle-button, .save-button, .home-button {
+    transition: all 0.3s ease-in-out;
+  }
+  
