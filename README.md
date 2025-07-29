@@ -26,9 +26,9 @@
 
 ## Screenshots  
 <img width="864" height="608" alt="image" src="https://github.com/user-attachments/assets/abe478d0-935a-45fd-85d0-d88ea506b120" />
-<img width="844" height="500" alt="image" src="https://github.com/user-attachments/assets/accc9301-e6d8-418a-86a1-2accc4dcef98" />
-<img width="842" height="504" alt="image" src="https://github.com/user-attachments/assets/487f52eb-03a7-4dd5-8082-04039a4ab996" />
-<img width="862" height="472" alt="image" src="https://github.com/user-attachments/assets/6f87815e-629e-4aa5-bff1-1dfd205ca183" />
+<img width="864" height="608" alt="image" src="https://github.com/user-attachments/assets/accc9301-e6d8-418a-86a1-2accc4dcef98" />
+<img width="864" height="608" alt="image" src="https://github.com/user-attachments/assets/487f52eb-03a7-4dd5-8082-04039a4ab996" />
+<img width="862" height="608" alt="image" src="https://github.com/user-attachments/assets/6f87815e-629e-4aa5-bff1-1dfd205ca183" />
 
 ---
 
@@ -96,5 +96,5 @@ npm run start
 
 ---
 
-## 📜 License  
-This project is licensed under the [MIT License](LICENSE).  
+
+
