@@ -1,5 +1,5 @@
 # Major Project - Flux Read  
-![Flux Read Screenshot](flux-read-screenshot.png)  
+
 
 **Flux Read** is a web application designed to help users enhance their reading speed and comprehension. It provides various exercises and tools to improve reading efficiency and understanding over time.  
 
